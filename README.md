@@ -1,6 +1,6 @@
 ![xxhdpi](https://user-images.githubusercontent.com/37498811/41118114-d9cad440-6ab0-11e8-9254-68d6aac245be.png)
 
-# [UNMAINTAINED] This project is unmaintained
+# This fork is created to remove SEND_SMS permission for those use cases where we don't want the app to require both READ and SEND SMS permissions
 
 
 # Flutter SMS
